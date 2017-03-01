@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Preprocessing
+*.p
+cifar-10-batches-py/
+
 # C extensions
 *.so
 
